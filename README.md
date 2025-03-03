@@ -3,7 +3,7 @@
 
 ### Links
 
-- Solution URL: [Github](https://github.com/vinay-parit/Recipe-Page)
+- Solution URL: [Github](https://github.com/akash-agasur/recipe-page-)
 - Live Site URL: [Vercel Link](https://recipe-page-tau-eight.vercel.app/)
 
 ### ScreenShot
@@ -13,7 +13,7 @@
 
 ### Author
 
-- [Vinay-Parit](https://www.linkedin.com/in/vinay-parit/)
+- [Akash-Agasur](https://www.linkedin.com/in/akash--agasur/)
 
 
 ### Built with
