@@ -3,8 +3,13 @@
 
 ### Links
 
+<<<<<<< HEAD
 - Solution URL: [Github](https://github.com/akash-agasur/recipe-page-)
 - Live Site URL: [Vercel Link](https://recipe-page-tau-eight.vercel.app/)
+=======
+- Solution URL: [Github](https://github.com/vinay-parit/Recipe-Page)
+- Live Site URL: [Vercel Link](https://recipe-page-ten-sigma.vercel.app/)
+>>>>>>> 2f21ff6311acfa1ba21194a39562e0f2cafb7320
 
 ### ScreenShot
 
